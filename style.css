@@ -28,6 +28,17 @@ body
 
 
 }
+.display
+{
+    grid-column: 1 / 5;
+    background-color: rgb(209, 209, 209);
+    padding: 4%;
+    border-radius: 1.1rem;
+    font-size: 2rem;
+    text-align: right;
+    font-weight: bold;
+  
+}
 
 .btn
 {
@@ -35,6 +46,25 @@ body
     font-size: 1.5rem;
     border: none;
     border-radius: 10%;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
 
+.btn:hover
+{
+    background-color: rgb(189, 189, 189);
+}
+
+#zero
+{
+    grid-column: span 2;
+    height: 10px;
+}
+
+#equal
+{
+   height: 220%;
+   background-color: rgb(78, 76, 76);
 }
