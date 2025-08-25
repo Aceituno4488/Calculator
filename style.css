@@ -19,7 +19,7 @@ body
 {
     background-color: #7D9B84;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 10px 40PX;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     width: 300px;
     max-width: 100%;
