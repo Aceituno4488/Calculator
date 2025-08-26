@@ -10,3 +10,4 @@ If you want to check out the code, study it, or even play around with it, you ca
 **Clone:**  
 ```bash
 gh repo clone Aceituno4488/Calculator
+I made this project for practice and fun. It's a calculator built with HTML, CSS, and JavaScript. You can use it for basic calculations like addition, subtraction, multiplication, and division.
